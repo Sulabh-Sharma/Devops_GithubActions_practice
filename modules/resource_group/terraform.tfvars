@@ -3,4 +3,8 @@ rgs = {
         name ="Blinkit-rg"
         location = "centralindia"
     }
+    rg2 = {
+        name ="Instamart-rg"
+        location = "centralindia"
+    }
 }
